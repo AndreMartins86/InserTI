@@ -152,7 +152,8 @@
             font-weight: normal;
             color: White;
             font-size: 36px;
-            padding-top: 35%;    
+            padding-top: 35%;  
+            text-align: center;
         }
         
         h2#fig {
@@ -161,7 +162,10 @@
             color: White;
             font-size: 18px;
             padding-top: -10px;
+            text-align: center;
         }
+        
+         /* Formatação da area de parceiros */
         
         h1#parceiros {
             font-family: OCR A Std, monospace;
@@ -169,8 +173,9 @@
             text-indent: 30px;
             color: #00346D;
             font-size: 26px;
-            padding-top: -2px;
+            padding-top: 20px;
             padding-bottom: -30px;
+            text-align: center
         }
         
         div#parceiros{
@@ -180,15 +185,10 @@
                 box-shadow: 1px 1px 4px black;
         }
 
-        td#parceiro {
+        td#logos {
             padding-left: 30px;
             padding-right: 30px;                
         }
-
-        hr#cont{
-            color: #00346D;
-            border:1px #7BB9FF solid;
-                }
              
                 img#parceiros{
                            background-color: rgba(0,0,0,0);    
