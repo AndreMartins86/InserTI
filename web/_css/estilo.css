@@ -180,7 +180,7 @@
                 box-shadow: 1px 1px 4px black;
         }
 
-        td {
+        td#parceiro {
             padding-left: 30px;
             padding-right: 30px;                
         }
