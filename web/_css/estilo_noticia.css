@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+        /*Formatação de tabela*/
+        #THoje{
+            MARGIN-LEFT:30%; WIDTH:40%;
+        }
+          #TAnterior{
+            MARGIN-LEFT:100%; WIDTH:100%;
+        }
+
+
+        /*Formatação de imagem*/
+            #IHoje{}
+            #IAnterior{
+             }
+    
+        /*Formatação de manchete*/
+            #Manchete{}
+            
+            
