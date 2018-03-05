@@ -211,3 +211,26 @@
                width: auto;
                height: auto;
         }
+
+ /*Institucional*/
+                
+                nav#subjan ul {
+                 list-style-type: none;
+                 overflow: hidden;
+                 background-color: red;
+                              }
+
+                nav#subjan li {
+                    float: left;
+                }
+
+                nav#subjan li a {
+                    display: table; 
+                    color: black;
+                    text-align: center;
+                    padding: 16px;
+                    text-decoration: none;
+                }
+
+                nav#subjan li a:hover {
+                    background-color: lime;
