@@ -212,12 +212,12 @@
                height: auto;
         }
 
- /*Institucional*/
+        /*Institucional*/
                 
                 nav#subjan ul {
                  list-style-type: none;
                  overflow: hidden;
-                 background-color: red;
+                 background-color: #ABD3FF;
                               }
 
                 nav#subjan li {
@@ -230,8 +230,10 @@
                     text-align: center;
                     padding: 16px;
                     text-decoration: none;
+                    font-size: 18px;
+                    font-family: OCR A Std, monospace;
                 }
 
                 nav#subjan li a:hover {
-                    background-color: lime;
+                    background-color: Lightgray;
 		}
