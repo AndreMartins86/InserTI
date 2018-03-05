@@ -14,6 +14,12 @@
         }
 	
         	/* Formatação da  Div Interface */
+                
+        div#contato {
+                margin-left: auto;
+                margin-right: auto;
+                 width: 6em 
+        }             
 
 	div#interface{
 		width: 1200px;
@@ -198,3 +204,10 @@
                 img#parceiros:hover {
                     background-color: rgba(0,0,0,0.2);
                 }
+                
+        div#container img {
+               max-width:50px;
+               max-height:50px;
+               width: auto;
+               height: auto;
+        }	
