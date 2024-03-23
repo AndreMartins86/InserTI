@@ -45,7 +45,7 @@
                 padding-left: 30px;
                 padding-right: 30px;
 	}
-        h1#cont {
+         h1 .cont {
             font-family: OCR A Std, monospace;
             font-weight: normal;
             text-indent: 30px;
@@ -55,7 +55,7 @@
             
         }
         
-        h2#cont {
+        h2 .cont {
             font-family: OCR A Std, monospace;
             font-size: 18px;
             font-weight: 100;
@@ -153,7 +153,7 @@
             opacity: 1;
 	}
 
-        h1#fig {
+        h1 .fig {
             font-family: OCR A Std, monospace;
             font-weight: normal;
             color: White;
@@ -162,7 +162,7 @@
             text-align: center;
         }
         
-        h2#fig {
+        h2 .fig {
             font-family: OCR A Std, monospace;
             font-weight: normal;
             color: White;
@@ -173,7 +173,7 @@
         
          /* Formatação da area de parceiros */
         
-        h1#parceiros {
+        h1 .parceiros {
             font-family: OCR A Std, monospace;
             font-weight: normal;
             text-indent: 30px;
@@ -184,24 +184,24 @@
             text-align: center
         }
         
-        div#parceiros{
+        div .parceiros{
                 margin-top: 20px;
                 background-color: white;
                 border: 3px #7BB9FF solid;
                 box-shadow: 1px 1px 4px black;
         }
 
-        td#logos {
+        td .logos {
             padding-left: 30px;
             padding-right: 30px;                
         }
              
-                img#parceiros{
+                img .parceiros{
                            background-color: rgba(0,0,0,0);    
                            transition: 1s;
                 }
                 
-                img#parceiros:hover {
+                img .parceiros:hover {
                     background-color: rgba(0,0,0,0.2);
                 }
                 
@@ -237,3 +237,8 @@
                 nav#subjan li a:hover {
                     background-color: Lightgray;
 		}
+                
+  #div1 a {
+      color:black;
+      text-decoration: none;
+       }
